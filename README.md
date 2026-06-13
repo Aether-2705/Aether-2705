@@ -10,11 +10,6 @@
 
 ###
 
-<div align="center">
-  <a href="https://open.spotify.com/user/31ayhed73hohrw5n35brsdmtr5i4">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31ayhed73hohrw5n35brsdmtr5i4&count=2&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
 <!-- Profile Views Counter -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kavish18141&label=Profile%20Views&color=06B6D4&style=for-the-badge" alt="Profile views" />
