@@ -12,17 +12,11 @@
 
 <!-- Profile Views Counter -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kavish18141&label=Profile%20Views&color=06B6D4&style=for-the-badge" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/kavish18141?label=Followers&style=for-the-badge&color=06B6D4&labelColor=0284C7" alt="followers" />
+  <img src="https://komarev.com/ghpvc/?username=Aether-2705&label=Profile%20Views&color=06B6D4&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/Aether-2705?label=Followers&style=for-the-badge&color=06B6D4&labelColor=0284C7" alt="followers" />
 </p>
 
 ---
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
 # 💫 About Me:
